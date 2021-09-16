@@ -1,4 +1,4 @@
-#Repositórios GitHub
+# Repositórios GitHub
 Projeto desenvolvido no curso da Gama Academy durante as aulas de React com o professor Guilherme Ramos.
 
 ![Tela inicial da aplicação, na qual ocorre a busca pelo usuário do Github.](https://imgur.com/V9WQqtO.png)
